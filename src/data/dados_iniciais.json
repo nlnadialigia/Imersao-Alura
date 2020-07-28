@@ -1,0 +1,95 @@
+{
+  "categorias": [
+    {
+      "titulo": "Inspiração",
+      "cor": "#f78fb3",
+    
+      "videos": [
+        {
+          "titulo": "Recomeço - Bráulio Bessa",
+          "url": "https://youtu.be/3x6CbaSpggI"
+        },
+        {
+          "titulo": "O tempo e a vida - Mario Sergio Cortella",
+          "url": "https://youtu.be/Ek2LmQ5d6Jo"
+        },
+        {
+          "titulo": "A poesia transforma - Bráulio Bessa",
+          "url": "https://youtu.be/UAzlNehwkeI"
+        },
+        {
+          "titulo": "Atitudes que fazem a diferença - Leandro Karnal",
+          "url": "https://youtu.be/t2QVddGWn-o"
+        }       
+      ]
+    },
+    {
+      "titulo": "Músicas",
+      "cor": "#63cdda",
+      "link_extra": {
+        "text": "Carmina Burana - O Fortuna",
+        "url": "https://youtu.be/6WBUSS3pOlg"
+      },
+      "videos": [
+        {
+          "titulo": "Ode to Joy - Beethoven",
+          "url": "https://youtu.be/ahDls2JFzcQ"
+        },
+        {
+          "titulo": "O Sole Mio - The 3 Tenors",
+          "url": "https://youtu.be/ERD4CbBDNI0"
+        },
+        {
+          "titulo": "The Three Tenors - Paris - 1998 - Concerto Completo",
+          "url": "https://youtu.be/1w9lv1iV2IQ"
+        }
+      ]
+    },
+    {
+      "titulo": "Filmes",
+      "cor": "#33d9b2",
+      "videos": [
+        {
+          "titulo": "A procura da felicidade",
+          "url": "https://youtu.be/DKu5SQ-ekcI"
+        },
+        {
+          "titulo": "À espera de um milagre",
+          "url": "https://youtu.be/k9ABwUDje-w"
+        },
+        {
+          "titulo": "Gladiator",
+          "url": "https://youtu.be/Q-b7B8tOAQU"
+        },
+        {
+          "titulo": "A cor púrpura",
+          "url": "https://youtu.be/V3NFGsA8hX4"
+        }
+      ]
+    },
+    {
+      "titulo": "Rir é um bom remédio!",
+      "cor": "#ffda79",
+
+      "videos": [
+        {
+          "titulo": "Você já foi à Disney? - Ariano Suassuna",
+          "url": "https://youtu.be/S4zTj2N9ns8"
+        },
+        {
+          "titulo": "Mentiras e Mentirosos - Ariano Suassuna",
+          "url": "https://youtu.be/R1IUt-CAgSw"
+        },
+        {
+          "titulo": "Banda Calypso - Ariano Suassuna",
+          "url": "https://youtu.be/XLrCp-D3TEw"
+        },
+        {
+          "titulo": "Duas histórias de amor pra rir e chorar - Leandro Karnal e Ariano Suassuna",
+          "url": "https://youtu.be/SUQTg-l9otU"
+        }
+      ]
+    }
+   
+  ]
+}
