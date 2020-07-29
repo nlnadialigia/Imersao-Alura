@@ -24,3 +24,35 @@ body {
 a {
   color: inherit;
 } 
+
+#root {
+  min-height: calc(100vh - var(--bodyPaddingTop));
+  display: flex;
+  flex-direction: column;
+}
+
+#Page404{
+  color:var(--primary); 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+#Page404 h1{
+  font-size: 64px;
+}
+
+#Page404 h2{
+  font-size: 36px;
+}
+
+#Page404 li{
+  font-size: 32px;
+  font-weight: bold;
+  list-style-type: none;
+}
+
+#Page404 a{
+  text-decoration: none;
+}
