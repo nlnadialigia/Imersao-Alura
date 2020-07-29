@@ -1,0 +1,50 @@
+form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 30px;
+
+}
+
+h1{
+    height: 30px;
+    color: var(--primary);
+    font-size: 32px;
+}
+
+a{
+    text-decoration: none;
+}
+
+div{
+    font-size: 24px;
+
+    
+}
+
+select, input{
+    font-size: 20px;
+    font-weight: bold;
+    width: 300px;
+    background: var(--black);
+    color: var(--white);
+    
+}
+
+button{
+    color: var(--primary);
+    background: #000;
+    border: 2px solid var(--blackLighter);
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+button:hover{
+    background: var(--grayLight);
+    border: 2px solid var(--primary);
+    color: var(--black);
+
+}
+
+

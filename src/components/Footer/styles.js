@@ -4,10 +4,11 @@ import styled from 'styled-components';
 export const FooterBase = styled.footer`
   background: var(--black);
   border-top: 2px solid var(--primary);
+  
   padding-left: 8px;
   padding-right: 8px;
-  padding-top: 16px;
-  padding-bottom: 16px;
+  padding-top: 8px;
+  padding-bottom: 8px;
   color: var(--white);
   font-weight: bold;
   font-size: 24px;
