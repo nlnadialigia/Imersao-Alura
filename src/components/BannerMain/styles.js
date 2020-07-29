@@ -123,3 +123,11 @@ export const WatchButton = styled.button`
     display: block;
   }
 `;
+
+export const Link = styled.a`
+    display: block;
+    color: var(--primary);
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: none;
+`;

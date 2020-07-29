@@ -5,7 +5,7 @@ function Footer() {
   return (
     <FooterBase>
       <p>
-        Criado durante a
+        Criado por Nádia Ligia durante a
         {' '}
       </p>
       <a href="https://www.alura.com.br/">

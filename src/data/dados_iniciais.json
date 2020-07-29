@@ -10,6 +10,10 @@
           "url": "https://youtu.be/3x6CbaSpggI"
         },
         {
+          "titulo": "Eu só posso me ofender se eu não me conhecer - Leandro Karnal",
+          "url": "https://youtu.be/LYBK45De28o"
+        },         
+        {
           "titulo": "O tempo e a vida - Mario Sergio Cortella",
           "url": "https://youtu.be/Ek2LmQ5d6Jo"
         },
@@ -26,11 +30,12 @@
     {
       "titulo": "Músicas",
       "cor": "#63cdda",
-      "link_extra": {
-        "text": "Carmina Burana - O Fortuna",
-        "url": "https://youtu.be/6WBUSS3pOlg"
-      },
+
       "videos": [
+        {
+          "titulo": "Carmina Burana - O Fortuna",
+          "url": "https://youtu.be/6WBUSS3pOlg"
+        },
         {
           "titulo": "Ode to Joy - Beethoven",
           "url": "https://youtu.be/ahDls2JFzcQ"
